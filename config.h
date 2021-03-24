@@ -5,8 +5,8 @@ static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int snap      = 16;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Ubuntu Mono:size=13" };
-static const char dmenufont[]       = "Ubuntu Mono:size=13";
+static const char *fonts[]          = { "mononoki Nerd Font:size=13:antialias=true:autohint=true" };
+static const char dmenufont[]       = "mononoki Nerd Font:size=13:antialias=true:autohint=true";
 static const char col_gray1[]       = "#1e232b"; // "#222222";
 static const char col_gray2[]       = "#3b3f56"; // "#444444";
 static const char col_gray3[]       = "#bbbbbb"; // "#bbbbbb";
